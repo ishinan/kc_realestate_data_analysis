@@ -1,0 +1,40 @@
+Lightning Projects with Python
+
+Now you will have your first "lightning project" in the course. This
+goal of this activity will be to get practice planning and divvying up
+work between multiple people, and reading specifications to figure out
+the work necessary in a short amount of time. It is the first practice
+you will get with group work.
+
+1. Form your group. Groups should be 3-4 people. If you have 2 people,
+merge with another group. Groups will be randomly assigned.
+
+2. Agree on one of the two following challenges: a static site generator
+for books, or a real-estate data processing applications. (Details are
+included in separate txt files)
+
+3. Choose between the roles. If you have more people than roles, two
+people should work on the same role.
+
+--------------------------------------------------------------------------
+
+Hints:
+
+- You will likely not finish the entire application during class time.
+
+- Instead, your goal should be to at least finish planning and
+  brainstorming, and have enough time for individual team members to at
+  least start work on each of the different pieces.
+
+- Pseudocode and state diagrams will be your friends.
+
+- Don't worry about properly setting up git to collaborate -- that can
+  take too much time.
+
+- When class time is soon to be over, all team members should send their
+  code snippets to one person to combine them.
+
+- One of the most challenging aspects of collaborating is learning how
+  to isolate and work on your part of a project while other people are
+  still working on theirs. Think about how to use "fake" test data and
+  print to ensure your piece is working correctly.

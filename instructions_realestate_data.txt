@@ -1,0 +1,28 @@
+REAL-ESTATE DATA STATISTICS
+
+Your goal is to make a data reading application that loads data from a
+CSV file.  There is an example CSV file provided to use.
+
+- Role 1: UI. Write functions or code that have menus that ask the user
+  what they want to do. You'll be using loops and "inputs" to construct
+  a text-based menu.
+    - Collaboration hint: Think of ways to begin work on this before
+      your teammates are finished, such as for now having placeholder
+      functions for the other functionality that get filled in later.
+
+- Role 2: Input parser. Write a function to read in data from a CSV
+  file, "parse it", and put it into an appropriate data type, such as a
+  list or dict.
+    - Collaboration hint: Before you combine your work with your
+      teammates work, just print the data structure to the terminal to
+      double check the data is getting passed correctly.
+
+- Role 3: Data crunching. Write a functions that take in a list of data,
+  and determines max, min, mean, mode, median, and other such statistics
+  for the data. Use Google to learn how to do these different
+  statistical operations on data using Python 3, and look for easier
+  solutions for each.
+    - Collaboration hint: Think of ways you can work on this before the
+      others are done. For example, write code that operates on test or
+      example data.
+
